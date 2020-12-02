@@ -1,0 +1,48 @@
+body{
+    text-align: center;
+}
+
+
+#img1
+
+{
+    height:500px;
+    margin-bottom:50px;
+    
+    
+}
+
+
+
+#Welcome
+
+{
+   background-image: linear-gradient(aqua, green, yellow);
+    height: 800px
+}
+
+
+#raj
+
+{
+    text-decoration: underline;
+    font-family:fantasy;
+    font-size: 50px;
+    
+}
+
+
+
+#sarita
+
+
+{
+   text-decoration: bold;
+    font-family:fantasy;
+    font-size: 25px; 
+}
+
+p{
+    font-family: fantasy;
+    font-size: 25px
+}
