@@ -18,7 +18,9 @@ body{
 
 {
    background-image: linear-gradient(aqua, green, yellow);
-    height: 800px
+    height: 800px;
+    z-index: 9;
+    margin-top: 50px;
 }
 
 
@@ -46,3 +48,33 @@ p{
     font-family: fantasy;
     font-size: 25px
 }
+
+
+
+
+#menu
+
+{
+    list-style: none;
+    font-family: fantasy;
+    position: absolute;
+    z-index: 10;
+    cursor: pointer;
+    right: 30px;
+    top:0;
+}
+
+
+.links
+
+{
+    float: left;
+    color: deepskyblue;
+    padding-left: 15px;
+    margin-left: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Cinzel', serif;
+}
+
+
